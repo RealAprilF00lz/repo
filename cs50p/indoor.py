@@ -1,1 +1,0 @@
-print(input("Text: ").lower())
